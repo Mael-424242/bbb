@@ -1,3 +1,3 @@
 <?php
 phpinfo();
-echo("bonjou");
+echo("bonjour");
