@@ -1,2 +1,3 @@
 <?php
-salut test
+echo("salut test");
+?>
